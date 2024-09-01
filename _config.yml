@@ -1,0 +1,5 @@
+title: My Site
+description: A brief description of my site
+baseurl: ""
+url: "https://username.github.io"  
+theme: minima  # Or any other theme
